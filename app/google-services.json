@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "721707001263",
+    "firebase_url": "https://artikel-a6674.firebaseio.com",
+    "project_id": "artikel-a6674",
+    "storage_bucket": "artikel-a6674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721707001263:android:1763221e94de3b3e",
+        "android_client_info": {
+          "package_name": "com.example.dimasagung.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721707001263-gbjhl8ikvuii4ov14gd6c1jg0henv4ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dimasagung.dashboard",
+            "certificate_hash": "d0d6b828f01989d432eb24301d8160afde388e52"
+          }
+        },
+        {
+          "client_id": "721707001263-al5na4hm7jhvag12t130htkv9tcu7eg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL9od8Ciadu8XcklEIQwuCONxkFAdWzsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721707001263-al5na4hm7jhvag12t130htkv9tcu7eg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
